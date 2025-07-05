@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "8l9G_7k6F",
+      "email": "adgjl0122@naver.com",
+      "displayName": "양수영",
+      "facebookId": "126826530121328"
+    },
+    {
+      "id": "hACgpm8Th",
+      "email": "adgjl0122@naver.com",
+      "password": "$2b$10$8jEmURry0fITWmfXy2BruOR8yaL2l2a5xNZFnUmo2fgIPGseqXh5C",
+      "displayName": "egoing"
+    }
+  ],
+  "topics": []
+}
